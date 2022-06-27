@@ -1,0 +1,6 @@
+apiVersion: configprovider.azappconfig.io/v1alpha1
+kind: AppConfigurationSource
+metadata:
+  name: appconfigurationsource-sample
+spec:
+  # TODO(user): Add fields here
